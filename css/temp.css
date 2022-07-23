@@ -256,6 +256,12 @@ h2+p {
         text-align: center;
     }
 }
+@media (max-width: 767px) {
+    .services .services-content {
+       
+        margin-left: 20px;
+    }
+}
 
 .services .services-content .srv i {
     color: var(--main-color);
